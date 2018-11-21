@@ -36,3 +36,5 @@ rackup
 ```
 
 Then type in `localhost:9292` in your browser.
+
+hello
